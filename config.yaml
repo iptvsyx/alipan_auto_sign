@@ -1,5 +1,5 @@
 pushplus_token: 123456abc ## pushplus推送token
 refresh_token: 123456abc ## 阿里云网盘刷新token
 bilibili_cookie: 123456abc ## B站cookie
-kk_cookie: b-user-id=414fef5e-48e7-4669-f5b3-f2d10a6b6f8e; _UP_A4A_11_=wb96a128da6c4689be67023701ae5451; __sdid=AAQ/QWr4/D7eqaEc2QySVqoCIANKB9cTpAwLecKTpWBGsPieqoHo69xMQNOMCMpgoLJ5z75kywQBZvqWXP9ONm/DDi7u1G2F+wVT42p7vSFFXQ==; __pus=703054959b7f4fd4a566a86dadf439c4AASglD8zyuQhOHQseW7g/QLlKBqoILICW1AeE83dzhP0+yVMj3o/mfmamBi7XywpnVx6x/QY8UNbI5WxGHOpoZP8; __kp=be900ed0-81ae-11f0-9f61-d7625fb22556; __kps=AAS+hHdsHB/ITdT9JC5LTUV2; __ktd=hXgAnvzFUwdO6nTFpz8pJg==; __uid=AAS+hHdsHB/ITdT9JC5LTUV2; isg=BB0dM6ONKRCcFcKGGgmtc62hLPkXOlGMpjt7At_u2HSjli7Ip4v7XOVFxIqQVmlE; __puus=17ac63a21ec3eb3590655042962abe26AAReEKHHKfP5PTJvC2lKjUMGLtgjG6QGjpjUDm9aKUyrZ8+gKyp4+RGxtWeSuV9SMtHQyJuTEkKgh7aIEuLHM2phUu9mN/9RMxG5yeaxgBkdaLhcrDrBiIAnZZ1pUuV1bwSKnHmwurdaCalgLKBpuhw6XdHj90Af6lnPfIi+cj6TzqQrBXbWPNTGg7F9yYss22xhhf7lmi1DbjAPT9tVT+iC ##夸克网盘cookie
+kk_cookie: 123456abc ##夸克网盘cookie
 jd_cookie: 123456abc ##京东cookie
